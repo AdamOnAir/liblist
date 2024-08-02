@@ -1,0 +1,32 @@
+ISBN/ISSN: 407
+Year: -379382864
+ID: 1
+Title: e
+ISBN/ISSN: 933
+Year: 2018
+ID: 123
+Title: Fuufu Ijou
+ISBN/ISSN: 2
+Year: 2
+ID: 2
+Title: 2
+ISBN/ISSN: 12
+Year: 12
+ID: 12
+Title: Adam
+
+ISBN/ISSN: 12
+Year: 12
+ID: 12
+Title: A
+
+ISBN/ISSN: 503
+Year: -1022880848
+ID: 1
+Title: 
+
+ISBN/ISSN: 12
+Year: 12
+ID: 12
+Title: e
+
